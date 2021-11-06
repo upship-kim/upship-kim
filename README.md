@@ -1,5 +1,7 @@
-### Web Front-end Developer upship-kim 💫
+###사소한 곳에서 발휘하는 정직은 사소하지 않다
 <div align=left>
+  
+  [Upship Log](https://velog.io/@upship-kim)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upship-kim&layout=compact)](https://github.com/upship-kim/github-readme-stats)
 
