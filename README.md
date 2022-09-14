@@ -14,7 +14,7 @@
 
 </div>
 
-  [📚Upship Log](https://velog.io/@upship-kim)
+ <!-- [📚Upship Log](https://velog.io/@upship-kim) -->
   
 <!--
 **upship-kim/upship-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
